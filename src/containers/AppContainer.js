@@ -10,7 +10,8 @@ function getStore() {
 function getState() {
   return {
     restaurants: FastCommandStore.getState(),
-    getRestaurants: FastCommandActions.getRestaurants
+    getRestaurants: FastCommandActions.getRestaurants,
+    getMenuByRestaurants: FastCommandActions.getMenuByRestaurants
   };
 }
 

@@ -1,62 +1,52 @@
 [
   {
     "id": 1,
-    "name": "Fusce Aliquam Enim Limited",
-    "category": "chinois"
+    "name": "italie-king",
+    "category": "italie",
+    "menu": [
+      {
+        "plat": "kebab",
+        "prix": 19,
+        "description":
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam"
+      },
+      {
+        "plat": "pain bouchon",
+        "prix": 19,
+        "description":
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam"
+      },
+      {
+        "plat": "pain jambon",
+        "prix": 19,
+        "description":
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam"
+      }
+    ]
   },
   {
     "id": 2,
-    "name": "Cursus Corp.",
-    "category": "créole"
-  },
-  {
-    "id": 3,
-    "name": "Quis Urna Limited",
-    "category": "français"
-  },
-  {
-    "id": 4,
-    "name": "Pede Ultrices Limited",
-    "category": "créole"
-  },
-  {
-    "id": 5,
-    "name": "Est Vitae Sodales LLC",
-    "category": "italien"
-  },
-  {
-    "id": 6,
-    "name": "Erat Eget Ipsum Associates",
-    "category": "italien"
-  },
-  {
-    "id": 7,
-    "name": "Porta Corp.",
-    "category": "allemand"
-  },
-  {
-    "id": 8,
-    "name": "Suspendisse Aliquet Sem Incorporated",
-    "category": "allemand"
-  },
-  {
-    "id": 9,
-    "name": "Nunc Nulla Vulputate Limited",
-    "category": "chinois"
-  },
-  {
-    "id": 10,
-    "name": "Dictum Consulting",
-    "category": "chinois"
-  },
-  {
-    "id": 11,
-    "name": "Justo Proin LLP",
-    "category": "français"
-  },
-  {
-    "id": 12,
-    "name": "Congue A Aliquet PC",
-    "category": "français"
+    "name": "china-king",
+    "category": "chine",
+    "menu": [
+      {
+        "plat": "chine kebab",
+        "prix": 19,
+        "description":
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam"
+      },
+      {
+        "plat": "chine pain bouchon",
+        "prix": 19,
+        "description":
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam"
+      },
+      {
+        "plat": "chine pain jambon",
+        "prix": 19,
+        "description":
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam"
+      }
+    ]
   }
 ]

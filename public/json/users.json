@@ -1,90 +1,42 @@
 [
   {
+    "id": 1,
     "name": "Wanda",
     "firstname": "Coleman"
   },
   {
+    "id": 2,
     "name": "Veronica",
     "firstname": "Albert"
   },
   {
+    "id": 3,
     "name": "Colleen",
     "firstname": "Giles"
   },
   {
+    "id": 4,
     "name": "Lacey",
     "firstname": "Payne"
   },
   {
+    "id": 5,
     "name": "Odessa",
     "firstname": "Bradford"
   },
   {
+    "id": 6,
     "name": "Rhonda",
     "firstname": "Santiago"
   },
   {
+    "id": 7,
     "name": "Blair",
     "firstname": "Nelson"
   },
   {
-    "name": "Audrey",
-    "firstname": "Bauer"
-  },
-  {
-    "name": "Ila",
-    "firstname": "Pena"
-  },
-  {
-    "name": "Brynn",
-    "firstname": "Pierce"
-  },
-  {
-    "name": "Neve",
-    "firstname": "Beach"
-  },
-  {
-    "name": "Carly",
-    "firstname": "Mccarthy"
-  },
-  {
-    "name": "Yael",
-    "firstname": "Blake"
-  },
-  {
-    "name": "Kameko",
-    "firstname": "Garner"
-  },
-  {
+    "id": 8,
     "name": "Rylee",
     "firstname": "Howe"
-  },
-  {
-    "name": "Josephine",
-    "firstname": "Mcbride"
-  },
-  {
-    "name": "Miriam",
-    "firstname": "Romero"
-  },
-  {
-    "name": "Blaine",
-    "firstname": "Slater"
-  },
-  {
-    "name": "Octavia",
-    "firstname": "Riddle"
-  },
-  {
-    "name": "Mariam",
-    "firstname": "Lyons"
-  },
-  {
-    "name": "Lael",
-    "firstname": "Saunders"
-  },
-  {
-    "name": "Megan",
-    "firstname": "Guerrero"
   }
 ]
